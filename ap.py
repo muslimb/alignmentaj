@@ -45,6 +45,8 @@ else:
         if my_list == False:
             st.write('Alignmentaj did not find similar peptides in your sequnces!')
         st.write('*Thank you for using Alignmentaj!!!*')
+        st.header('CITATIONS')
+        st.write('*Normatov M.G., Pakhamov V.A. Program for identifying similar amino acid sequences in molecular mimicry" (ALIGNMENTAJ)*', https://alignmentaj-web.streamlit.app/)
 
 
 
